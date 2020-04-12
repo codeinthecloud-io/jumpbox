@@ -19,9 +19,11 @@ $ terraform -version
 Terraform v0.12.23
 + provider.azurerm v2.5.0
 ```
-Clone this repository
+
+Clone this repository to make a jumpbox.
+
 ```
-$ git clone
+$ git clone https://github.com/codeinthecloud-io/jumpbox
 ```
 
 ### Azure
@@ -95,3 +97,12 @@ $ ssh admin@123.12.213.19 < ../sh/pre-deploy-bucc.sh
 $
 ```
 
+Move on to the next step with [deploy-bucc](https://github.com/codeinthecloud-io/deploy-bucc)!
+
+## GCP
+
+Coming soon.
+
+## AWS
+
+Coming soon.
