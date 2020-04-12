@@ -1,0 +1,7 @@
+azure/terraform.tfvars
+azure/.terraform
+azure/terraform.tfstate*
+gcp/terraform.tfvars
+aws/terraform.tfvars
+
+.idea
